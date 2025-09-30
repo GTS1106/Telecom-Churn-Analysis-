@@ -56,7 +56,8 @@
 
 ## 📊 Dashboard Preview
 
-(Add a screenshot here of your Power BI dashboard — super impactful for GitHub viewers!)
+<img src='Images/Summary.png' width='400' height='600'>
+<img src='Images/ChurnPrediction.png' width='400' height='600'>
 
 ## 📚 Tech Stack
 
