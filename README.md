@@ -56,9 +56,13 @@
 
 ## 📊 Dashboard Preview
 
+- Dashboard Images
 <img src='Images/Summary.png' width='400' height='600'>
 <img src='Images/ChurnPrediction.png' width='400' height='600'>
-
+- Confusion Matrix
+<img src='Images/ConfusionMatrix.png' width='400' height='600'>
+- Features Importance Histogram
+<img src='Images/FeaturesImportance.png' width='400' height='600'>
 ## 📚 Tech Stack
 
 - Python: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
